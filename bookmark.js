@@ -1563,8 +1563,8 @@ channel:hover{
 // prox browser
 function app4(){
   let proxybrowser = openWindow(400, 300, "ProxBrowser", true, Injector.serverURL + "/proxbrowser.png");
-  var proxyTypes = ["Womginx", "Alloy"];
-  var proxyUrls = ["https://mikesproxy.herokuapp.com/main/", "https://alloyinject.herokuapp.com/session/?url="];
+  var proxyTypes = ["Ultraviolet"];
+  var proxyUrls = ["https://discord-bot-test-log.littleclaw.repl.co/service/"];
   let urlbar = newElement("input", proxybrowser, "urlbar");
   let proxyPicker = newElement("select", proxybrowser, "proxypicker");
   let fullScreenBtn = newElement("FSButton", proxybrowser, "fsbtn");
@@ -1633,7 +1633,7 @@ fullScreenBtn.addEventListener("mouseout", function(){
   urlbar.addEventListener("keydown", function(e){
     if(e.key === "Enter"){
       urlbar.placeholder = urlbar.value;
-      if(proxyPicker.value === "https://alloyinject.herokuapp.com/session/?url="){
+      if(proxyPicker.value === "https://discord-bot-test-log.littleclaw.repl.co/service/"){
         urlbar.value = btoa(urlbar.value);
       }
       browserwindow.src = proxyPicker.value + urlbar.value;
