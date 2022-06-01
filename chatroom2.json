@@ -1,231 +1,32 @@
 {
     "#general": {
         "contentOfChat": [
-            [
-                "bobthehairman",
-                1,
-                "Restarted the chatroom. We're having some issues with the server, so unexpected brief outages and database rollbacks should be expected."
-            ],
-            [
-                "Rasb",
-                1619783466225,
-                "ok"
-            ],
-            [
-                "Rasb",
-                1619783481480,
-                " ave you restarted the DM's aswell?"
-            ],
-            [
-                "BiggyNest",
-                1619784441721,
-                "Status check"
-            ],
-            [
-                "BiggyNest",
-                1619784567538,
-                "*dabs on your piss*"
-            ],
-            [
-                "Rasb",
-                1619785220199,
-                "imagine dabby"
-            ],
-            [
-                "Rasb",
-                1619785229165,
-                "dabbing*"
-            ],
-            [
-                "Rasb",
-                1620130959874,
-                "hello"
-            ],
-            [
-                "bobthehairman",
-                1620133138457,
-                "hi"
-            ],
-            [
-                "bobthehairman",
-                1620133155561,
-                "i am currently trying to think of what to do"
-            ],
-            [
-                "bobthehairman",
-                1620133175828,
-                "the chatroom is kind of royally fucked, i'd have to rewrite the whole thing to make it not brokey which uhhhhhhhhh no"
-            ],
-            [
-                "bobthehairman",
-                1620133261362,
-                "i am currently working on a prototype bookmark called c0mms"
-            ],
-            [
-                "Rasb",
-                1620133816601,
-                "hi"
-            ],
-            [
-                "Rasb",
-                1620133831033,
-                "oh"
-            ],
-            [
-                "Rasb",
-                1620133832229,
-                "cool"
-            ],
-            [
-                "Rasb",
-                1620133846301,
-                "when will c0mms come out"
-            ],
-            [
-                "bobthehairman",
-                1620134129095,
-                "Not sure"
-            ],
-            [
-                "bobthehairman",
-                1620134138037,
-                "I have to learn websockets"
-            ],
-            [
-                "bobthehairman",
-                1620134153207,
-                "It's sort of like a HTTP request, but it stays open rather than ending once the data is sent"
-            ],
-            [
-                "bobthehairman",
-                1620134182159,
-                "The chatroom uses standard HTTP requests which is not very good, but it was the only way I knew at tthe time"
-            ],
-            [
-                "Rasb",
-                1620134269410,
-                "ohh"
-            ],
-            [
-                "Rasb",
-                1620134278190,
-                "that's cool im excited for it"
-            ],
-            [
-                "Rasb",
-                1620134283796,
-                "also the chatroom is buggy as hell rn"
-            ],
-            [
-                "Rasb",
-                1620134937307,
-                "btw minecraft crashed"
-            ],
-            [
-                "Rasb",
-                1620134960963,
-                "the only game that works now is fnf"
-            ],
-            [
-                "Venti",
-                1620147941403,
-                "whats going on in the auditorium"
-            ],
-            [
-                "Venti",
-                1620147944605,
-                "i need to know"
-            ],
-            [
-                "Venti",
-                1620147961179,
-                "Im very curious"
-            ],
-            [
-                "Venti",
-                1620393594995,
-                "ded chat xd"
-            ],
-            [
-                "MrSwaydMan",
-                1620394097607,
-                "yep its dead af"
-            ],
-            [
-                "Elongated",
-                1641874953703,
-                "indeed"
-            ],
-            [
-                "Elongated",
-                1642962785616,
-                "yo"
-            ],
-            [
-                "zdc",
-                1646707065363,
-                "cock"
-            ],
-            [
-                "Elongated",
-                1647617351242,
-                "e"
-            ]
+            
         ]
     },
     "#fart-channel": {
         "contentOfChat": [
-            [
-                "fart",
-                1,
-                "fart chanel"
-            ],
-            [
-                "siege",
-                1619450480821,
-                "fart"
-            ],
-            [
-                "BuriedKitten",
-                1619458738162,
-                "OMG ITS FART CHANEL"
-            ],
-            [
-                "Elon Musk",
-                1619531489188,
-                "ONII CHAN"
-            ],
-            [
-                "BuriedKitten",
-                1619543450069,
-                "owo"
-            ],
-            [
-                "Rasb",
-                1619656554198,
-                "a"
-            ]
-        ]
+                    ]
     },
     "announcements": {
         "contentOfChat": [
             [
-                "bobthehairman",
+                "animecat7",
                 1619300162570,
                 "This is the Announcements channel.  Messsages with important information related to Injector or Chatbox will be posted here."
             ],
             [
-                "bobthehairman",
+                "animecat7",
                 1619300365086,
                 "Chatbox update 2.1.0: Removed \"2\" in Chatbox2, added Channels and Important Channels, added Admin system, chatlog no longer cleared on server restart"
             ],
             [
-                "bobthehairman",
+                "animecat7",
                 1619386903329,
                 "Chatbox update 2.1.1: Made the time indicators readable"
             ],
             [
-                "bobthehairman",
+                "animecat7",
                 1619559401897,
                 "Chatbox update 2.2.0: We have Direct Messaging now! Use the black search bar on the left to search for a user, then click on their name to start or read your DMs with them."
             ]

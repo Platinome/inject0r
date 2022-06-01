@@ -10,27 +10,27 @@
   "appsReadable": [
     [
       "NotePad",
-      "bobthehairman",
+      "animecat7",
       "A JS notepad. Used as a test app to test the App Store. Not super useful, but for whatever reason half the userbase has this app installed."
     ],
     [
       "Game Hub",
-      "bobthehairman",
+      "animecat7",
       "A selection of games to play which will not appear and your history and will likely never be blocked. Currently only has Friday Night Funkin'. Note: when Friday Night Funkin finishes the blue screen loading, make sure to click or it will just stay a blank screen"
     ],
     [
       "BAP!",
-      "bobthehairman",
+      "animecat7",
       "Automatically creates a basic UI so I can create new programs easily. Mostly just used for a basic idea of an app's UI since it lacks advanced element types such as text boxes and buttons, but is still a powerful tool."
     ],
     [
       "Module2.0",
-      "bobthehairman",
+      "animecat7",
       "A UI overhaul for Injector that allows for a more multitasked style of Injector where the desktop is made transparent over the page, turning it into a more module-style UI. Requires a refresh to uninstall."
     ],
     [
       "JuanAnime",
-      "bobthehairman",
+      "animecat7",
       "An app Juan requested. Basically just Game Hub but anime sites. Currently only has Array Anime."
     ]
   ]
