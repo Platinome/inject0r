@@ -722,7 +722,7 @@ function requestListener(req, res) {
     res.end();
   } else{
     res.writeHead(403, 'Unauthorized');
-    res.write("GTFO MY SERVER");
+    res.write("...ERROR ON CLIENT SIDE. SORRY...");
     res.end();
   }
   return;
